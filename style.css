@@ -1,0 +1,16 @@
+body {
+  color: darkorange;
+}
+
+h1 {
+  color: lightblue;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+a{
+	float:right;
+}
+a:hover{
+	color:darkorange;
+}
